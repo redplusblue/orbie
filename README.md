@@ -1,3 +1,5 @@
+⚠️🚧 This is under construction!
+
 # Orbie 🌌🤖
 
 Meet **Orbie**, your personal task assistant that keeps everything in orbit around you! Designed to help you stay organized and productive, Orbie is a lightweight and extensible companion ready to tackle your to-dos, answer questions, and even learn from your habits. Whether you're juggling tasks or just need a friendly nudge, Orbie's got you covered.
@@ -23,7 +25,7 @@ Meet **Orbie**, your personal task assistant that keeps everything in orbit arou
 ### Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/orbie.git
+   git clone https://github.com/replusblue/orbie.git
    cd orbie
    ```
 2. Install dependencies:
