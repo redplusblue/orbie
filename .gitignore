@@ -1,5 +1,7 @@
+# Cache
+orbie/__pycache__
 # Secret
-config/
+config/secrets.json
 # Dev only
 venv/
 .idea/
