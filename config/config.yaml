@@ -1,0 +1,16 @@
+groq:
+  model: "llama3-8b-8192"
+  API: "https://api.groq.com/openai/v1/chat/completions"
+  search: "llava-v1.5-7b-4096-preview"
+
+ollama:
+  model: "phi3"
+  API: "http://localhost:11434/api/generate"
+
+search:
+  API: "https://search.samirkabra.com"
+  num_results: 5
+  token_limit: 10000
+
+#TBD: MSFT To-Do API
+

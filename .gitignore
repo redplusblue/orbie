@@ -3,5 +3,5 @@ orbie/__pycache__
 # Secret
 config/secrets.json
 # Dev only
-venv/
+.venv/
 .idea/
